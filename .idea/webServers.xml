@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="1e2f9e32-6890-46dd-b408-91a2d3602eda" name="dwa.codergroup.net" url="http://dwa.codergroup.net">
-        <fileTransfer host="dwa.codergroup.net" port="21" password="dfe3dfe9dfffdfc2dffddfd2dfcedffc" username="codergroup">
+        <fileTransfer host="dwa.codergroup.net" port="21" rootFolder="/www/dwa.codergroup.net" password="dfe3dfe9dfffdfc2dffddfd2dfcedffc" username="codergroup">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
