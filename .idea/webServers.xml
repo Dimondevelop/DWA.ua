@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1e2f9e32-6890-46dd-b408-91a2d3602eda" name="dwa.codergroup.net" url="http://dwa.codergroup.net">
+        <fileTransfer host="dwa.codergroup.net" port="21" password="dfe3dfe9dfffdfc2dffddfd2dfcedffc" username="codergroup">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/dwa.codergroup.net/webstat"
+AuthUserFile /var/www/codergroup/data/etc/59522284.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
